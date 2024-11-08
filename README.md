@@ -1,4 +1,4 @@
-**# Song Popularity Prediction Project**
+# Song Popularity Prediction Project
 
 This project explores the factors influencing song popularity on a music streaming platform. By applying machine learning techniques, we aim to:
 
